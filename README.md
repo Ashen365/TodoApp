@@ -16,17 +16,6 @@ Manage your daily tasks with ease — add, update, delete, and mark them as comp
 - 🗄️ Room Database for local data storage
 - 🔄 LiveData and ViewModel for reactive UI updates
 
----
-
-## 📱 Screenshots
-
-| Home Screen | Add Task | Dark Mode |
-|------------|----------|-----------|
-| ![Home](screenshots/home.png) | ![Add](screenshots/add.png) | ![Dark](screenshots/dark.png) |
-
-> (🖼️ Replace `screenshots/*.png` with your actual image files)
-
----
 
 ## 🛠️ Tech Stack
 
